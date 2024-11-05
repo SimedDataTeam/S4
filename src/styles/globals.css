@@ -1,0 +1,28 @@
+@tailwind base;  /* Import Tailwind's base styles */
+@tailwind components; /* Import Tailwind's component styles */
+@tailwind utilities; /* Import Tailwind's utility styles */
+
+/* Global styles for the body */
+body {
+    background-color: #0b0f2c; /* Set a dark background color */
+    font-family: Arial, sans-serif; /* Set a fallback font stack */
+
+}
+
+/* Custom components layer */
+@layer components {
+    .btn {
+        @apply bg-[#658bc9] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black;
+        /* Apply Tailwind utilities for a styled button:
+           - Background color: #658bc9 (custom color)
+           - Width: 200px
+           - Rounded corners
+           - Medium font weight
+           - Vertical margin: 6px
+           - Horizontal margin: auto
+           - Padding: 3px vertically
+           - Text color: black
+        */
+    }
+
+}

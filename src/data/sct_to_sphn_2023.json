@@ -1,0 +1,1186 @@
+[
+  {
+    "SCT": "123037004 |Body structure (body structure)|",
+    "SPHN_Concepts": [
+      "Access Device Presence-insertion point",
+      "Access Device Presence-resting point",
+      "Allergy Episode-exposure route",
+      "Allergy Episode-manifestation body site",
+      "Blood Pressure-body site",
+      "Body Temperature-body site",
+      "Body Site -",
+      "Body Site-code",
+      "Circumference Measure-body site",
+      "FOPH Procedure-body siteence Measure-body site",
+      "Diagnostic Radiologic Examination-body site",
+      "Electrocardiographic Procedure-body site",
+      "Heart Rate-body site",
+      "Oncology Treatment Assessment-progression site",
+      "Oxygen Saturation-body site",
+      "Procedure-body site",
+      "Radiotherapy Procedure-body site",
+      "Sample-body site",
+      "Tumor Specimen-body site"
+    ]
+  },
+  {
+    "SCT": "91272006 |Chromosome (cell structure)|",
+    "SPHN_Concepts": [
+      "Chromosome -",
+      "Chromosome-chromosome name",
+      "Chromosomal Location-chromosome"
+    ]
+  },
+  {
+    "SCT": "386141001 |Insertion site (morphologic abnormality)|",
+    "SPHN_Concepts": ["Access Device Presence-insertion point"]
+  },
+  {
+    "SCT": "418038007 |Propensity to adverse reactions to substance (finding)|",
+    "SPHN_Concepts": ["Allergy"]
+  },
+  {
+    "SCT": "404684003 |Clinical finding (finding)|",
+    "SPHN_Concepts": [
+      "Allergy Episode-manifestation",
+      "Problem Condition-problem",
+      "Problem Condition-code"
+    ]
+  },
+  {
+    "SCT": "301095005 |Cardiac finding (finding)|",
+    "SPHN_Concepts": ["Cardiac Index-index", "Cardiac Output-quantity"]
+  },
+  {
+    "SCT": "365581002 |Finding of marital or partnership status (finding)|",
+    "SPHN_Concepts": ["Civil Status -", "Civil Status-status"]
+  },
+  {
+    "SCT": "365873007 |Gender finding (finding)|",
+    "SPHN_Concepts": ["Administrative Gender -", "Administrative Gender-gender"]
+  },
+  {
+    "SCT": "373060007 |Device status (finding)|",
+    "SPHN_Concepts": ["Access Device Presence"]
+  },
+  {
+    "SCT": "397578001 |Device in situ (finding)|",
+    "SPHN_Concepts": ["Access Device Presence"]
+  },
+  {
+    "SCT": "105726004 |Age AND/OR growth finding (finding)|",
+    "SPHN_Concepts": [
+      "Age-age quantity",
+      "Diagnosis-subject age",
+      "FOPH Diagnosis-subject age",
+      "ICD-O Diagnosis-subject age",
+      "Nursing Diagnosis-subject age"
+    ]
+  },
+  {
+    "SCT": "419099009 |Dead (finding)|",
+    "SPHN_Concepts": ["Death Status-status"]
+  },
+  {
+    "SCT": "309370004 |Consent status (finding)|",
+    "SPHN_Concepts": ["Consent-status"]
+  },
+  {
+    "SCT": "364830008 |Finding of position of body and posture (finding)|",
+    "SPHN_Concepts": ["Body Position-code"]
+  },
+  {
+    "SCT": "301120008 |Finding present on electrocardiogram (finding)|",
+    "SPHN_Concepts": [
+      "Electrocardiogram",
+      "Electrocardiographic Procedure-output"
+    ]
+  },
+  {
+    "SCT": "405533003 |Adverse incident outcome categories (finding)|",
+    "SPHN_Concepts": ["Adverse Event-outcome", "Adverse Event-consequences"]
+  },
+  {
+    "SCT": "162465004 |Symptom severity (finding)|",
+    "SPHN_Concepts": [
+      "Adverse Event-severity grade",
+      "Allergy-severity",
+      "Allergy Episode-manifestation severity"
+    ]
+  },
+  {
+    "SCT": "128973006 |Finding related physiologic patient state (finding)|",
+    "SPHN_Concepts": [
+      "Electrocardiographic Procedure-physiologic state",
+      "Heart Rate-physiologic state",
+      "Physiologic State -",
+      "Physiologic State-code"
+    ]
+  },
+  {
+    "SCT": "1281820001 |Finding of risk level (finding)|",
+    "SPHN_Concepts": ["Allergy-severity"]
+  },
+  {
+    "SCT": "420134006 |Propensity to adverse reaction (finding)|",
+    "SPHN_Concepts": ["Allergy-reaction type"]
+  },
+  {
+    "SCT": "473010000 |Hypersensitivity condition (finding)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation"]
+  },
+  {
+    "SCT": "365605003 |Body measurement finding (finding)|",
+    "SPHN_Concepts": ["Circumference Measure-circumference"]
+  },
+  {
+    "SCT": "301331008 |Finding of body mass index (finding)|",
+    "SPHN_Concepts": ["Body Mass Index-index"]
+  },
+  {
+    "SCT": "301330009 |Finding of measures of body height and growth (finding)|",
+    "SPHN_Concepts": ["Body Height-height"]
+  },
+  {
+    "SCT": "107647005 |Weight finding (finding)|",
+    "SPHN_Concepts": ["Body Weight-weight"]
+  },
+  {
+    "SCT": "118245000 |Measurement finding (finding)|",
+    "SPHN_Concepts": ["Measurement-quantity"]
+  },
+  {
+    "SCT": "447755005 |Finding of oxygen saturation (finding)|",
+    "SPHN_Concepts": ["Oxygen Saturation-saturation"]
+  },
+  {
+    "SCT": "301113001 |Finding of heart rate (finding)|",
+    "SPHN_Concepts": ["Heart Rate-rate"]
+  },
+  {
+    "SCT": "301149000 |Finding of pulse rhythm (finding)|",
+    "SPHN_Concepts": ["Heart Rate-regularity"]
+  },
+  {
+    "SCT": "392570002 |Blood pressure finding (finding)|",
+    "SPHN_Concepts": [
+      "Blood Pressure-systolic pressure",
+      "Blood Pressure-diastolic pressure",
+      "Blood Pressure-mean pressure"
+    ]
+  },
+  {
+    "SCT": "105723007 |Body temperature finding (finding)|",
+    "SPHN_Concepts": ["Body Temperature-temperature"]
+  },
+  {
+    "SCT": "301283003 |Finding of rate of respiration (finding)|",
+    "SPHN_Concepts": ["Respiratory Rate-rate"]
+  },
+  {
+    "SCT": "441742003 |Evaluation finding (finding)|",
+    "SPHN_Concepts": ["Simple Score-score"]
+  },
+  {
+    "SCT": "64195000 |Genetic variation (finding)|",
+    "SPHN_Concepts": [
+      "Genetic Variation",
+      "Single Nucleotide Variation-alternate allele",
+      "Variant Descriptor-genetic variation",
+      "Variant Notation-expression"
+    ]
+  },
+  {
+    "SCT": "106221001 |Genetic finding (finding)|",
+    "SPHN_Concepts": [
+      "Chromosomal Location-start cytoband",
+      "Chromosomal Location-end cytoband",
+      "Genetic Variation-genomic position",
+      "Genomic Position-start position",
+      "Genomic Position-end position",
+      "Genetic Variation-genomic position",
+      "Genetic Variation-chromosomal location",
+      "Single Nucleotide Variation-genomic position",
+      "Single Nucleotide Variation-chromosomal location",
+      "Variant Descriptor-variant type",
+      "Variant Descriptor-zygosity"
+    ]
+  },
+  {
+    "SCT": "41482005 |Molecular sequence data (finding)|",
+    "SPHN_Concepts": [
+      "Genomic Position-reference sequence",
+      "Reference-reference identifier"
+    ]
+  },
+  {
+    "SCT": "9109004 |Genetic alleles (finding)|",
+    "SPHN_Concepts": [
+      "Single Nucleotide Variation-reference allele",
+      "Single Nucleotide Variation-alternate allele",
+      "Variant Descriptor-allele origin"
+    ]
+  },
+  {
+    "SCT": "55607006 |Problem (finding)|",
+    "SPHN_Concepts": [
+      "Problem Condition -",
+      "Problem Condition-problem",
+      "Problem Condition-code"
+    ]
+  },
+  {
+    "SCT": "281647001 |Adverse reaction (disorder)|",
+    "SPHN_Concepts": ["Adverse Event -", "Adverse Event-code"]
+  },
+  {
+    "SCT": "473011001 |Allergic condition (finding)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation"]
+  },
+  {
+    "SCT": "419076005 |Allergic reaction (disorder)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation"]
+  },
+  {
+    "SCT": "9851009 |Body position finding (finding)|",
+    "SPHN_Concepts": ["Body Position-code"]
+  },
+  {
+    "SCT": "373793006 |Basis of cancer diagnosis (finding)|",
+    "SPHN_Concepts": ["ICD-O Diagnosis"]
+  },
+  {
+    "SCT": "408773008 |Reasons for treatment (finding)|",
+    "SPHN_Concepts": ["Drug Prescription-indication to start"]
+  },
+  {
+    "SCT": "395557000 |Tumor finding (finding)|",
+    "SPHN_Concepts": [
+      "ICD-O Diagnosis-topography code",
+      "ICD-O Diagnosis-morphology code",
+      "Oncology Treatment Assessment-result",
+      "Oncology Treatment Assessment-progression type"
+    ]
+  },
+  {
+    "SCT": "373372005 |Histological grade finding (finding)|",
+    "SPHN_Concepts": ["Tumor Grade -", "Tumor Grade-code"]
+  },
+  {
+    "SCT": "118208006 |Finding related to therapeutic response (finding)|",
+    "SPHN_Concepts": ["Oncology Treatment Assessment-result"]
+  },
+  {
+    "SCT": "162422000 |Symptom distribution (finding)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation body site"]
+  },
+  {
+    "SCT": "366323009 |Finding of length of gestation (finding)|",
+    "SPHN_Concepts": ["Gestational Age At Birth-age quantity"]
+  },
+  {
+    "SCT": "118246004 |Laboratory test finding (navigational concept)|",
+    "SPHN_Concepts": [
+      "Lab Result -",
+      "Lab Result-quantitative result",
+      "Lab Result-qualitative result",
+      "Lab Result-qualitative result code"
+    ]
+  },
+  {
+    "SCT": "308916002 |Environment or geographical location (environment / location)|",
+    "SPHN_Concepts": [
+      "Administrative Case-discharge location",
+      "Administrative Case-origin location",
+      "Healthcare Encounter-origin location",
+      "Healthcare Encounter-current location",
+      "Healthcare Encounter-target location"
+    ]
+  },
+  {
+    "SCT": "276339004 |Environment (environment)|",
+    "SPHN_Concepts": ["Location-class", "Data Provider Institute-code"]
+  },
+  {
+    "SCT": "162442009 |Time symptom lasts (observable entity)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation duration"]
+  },
+  {
+    "SCT": "439401001 |Diagnosis (observable entity)|",
+    "SPHN_Concepts": [
+      "Diagnosis -",
+      "Diagnosis-code",
+      "FOPH Diagnosis-code",
+      "ICD-O Diagnosis",
+      "Nursing Diagnosis-code"
+    ]
+  },
+  {
+    "SCT": "432213005 |Date of diagnosis (observable entity)|",
+    "SPHN_Concepts": [
+      "Diagnosis-record datetime",
+      "FOPH Diagnosis-record datetime",
+      "ICD-O Diagnosis-record datetime",
+      "Nursing Diagnosis-record datetime"
+    ]
+  },
+  {
+    "SCT": "224083004 |Marital or partnership status (observable entity)|",
+    "SPHN_Concepts": ["Civil Status-status"]
+  },
+  {
+    "SCT": "424144002 |Current chronological age (observable entity)|",
+    "SPHN_Concepts": [
+      "Age -",
+      "Age-age quantity",
+      "Diagnosis-subject age",
+      "FOPH Diagnosis-subject age",
+      "ICD-O Diagnosis-subject age",
+      "Nursing Diagnosis-subject age"
+    ]
+  },
+  {
+    "SCT": "423493009 |Age at diagnosis (observable entity)|",
+    "SPHN_Concepts": [
+      "Diagnosis-subject age",
+      "FOPH Diagnosis-subject age",
+      "ICD-O Diagnosis-subject age",
+      "Nursing Diagnosis-subject age"
+    ]
+  },
+  {
+    "SCT": "263495000 |Gender (observable entity)|",
+    "SPHN_Concepts": ["Administrative Gender-gender"]
+  },
+  {
+    "SCT": "50373000 |Body height measure (observable entity)|",
+    "SPHN_Concepts": ["Body Height -", "Body Height-height"]
+  },
+  {
+    "SCT": "372274003 |Sample identification number (observable entity)|",
+    "SPHN_Concepts": [
+      "Biobanksample-sample identifier",
+      "Sample-sample identifier",
+      "Tumor Specimen-sample identifier"
+    ]
+  },
+  {
+    "SCT": "422549004 |Patient-related Identification code (observable entity)|",
+    "SPHN_Concepts": ["Subject Pseudo Identifier-identifier"]
+  },
+  {
+    "SCT": "184107009 |Patient hospital number (observable entity)|",
+    "SPHN_Concepts": ["Healthcare Encounter-encounter identifier"]
+  },
+  {
+    "SCT": "184099003 |Date of birth (observable entity)|",
+    "SPHN_Concepts": ["Birth Date"]
+  },
+  {
+    "SCT": "399753006 |Date of death (observable entity)|",
+    "SPHN_Concepts": ["Death Date", "Death Status-death datetime"]
+  },
+  {
+    "SCT": "398299004 |Time of death (observable entity)|",
+    "SPHN_Concepts": ["Death Date-time", "Death Status-death datetime"]
+  },
+  {
+    "SCT": "406194006 |Death characteristics (observable entity)|",
+    "SPHN_Concepts": ["Death Status-status"]
+  },
+  {
+    "SCT": "722248002 |Patient hospital visit number (observable entity)|",
+    "SPHN_Concepts": ["Administrative Case-case identifier"]
+  },
+  {
+    "SCT": "399423000 |Date of admission (observable entity)|",
+    "SPHN_Concepts": ["Administrative Case-admission datetime"]
+  },
+  {
+    "SCT": "442864001 |Date of discharge (observable entity)|",
+    "SPHN_Concepts": ["Administrative Case-discharge datetime"]
+  },
+  {
+    "SCT": "263501003 |Time of onset (observable entity)|",
+    "SPHN_Concepts": ["Adverse Event-onset datetime"]
+  },
+  {
+    "SCT": "298059007 |Date of onset (observable entity)|",
+    "SPHN_Concepts": ["Adverse Event-onset datetime"]
+  },
+  {
+    "SCT": "442371002 |Start time of procedure (observable entity)|",
+    "SPHN_Concepts": [
+      "FOPH Procedure-start datetime",
+      "Procedure-start datetime"
+    ]
+  },
+  {
+    "SCT": "413946009 |Date treatment started (observable entity)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-event start datetime",
+      "Drug Prescription-first administration datetime"
+    ]
+  },
+  {
+    "SCT": "442137000 |Completion time of procedure (observable entity)|",
+    "SPHN_Concepts": ["FOPH Procedure-end datetime", "Procedure-end datetime"]
+  },
+  {
+    "SCT": "413947000 |Date treatment stopped (observable entity)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-event end datetime",
+      "Drug Prescription-last administration datetime"
+    ]
+  },
+  {
+    "SCT": "405162009 |Symptom severity level (observable entity)|",
+    "SPHN_Concepts": [
+      "Adverse Event-severity grade",
+      "Allergy-severity",
+      "Allergy Episode-manifestation severity"
+    ]
+  },
+  {
+    "SCT": "412726003 |Length of gestation at birth (observable entity)|",
+    "SPHN_Concepts": ["Gestational Age At Birth"]
+  },
+  {
+    "SCT": "397155001 |Body position (observable entity)|",
+    "SPHN_Concepts": ["Body Position"]
+  },
+  {
+    "SCT": "275924004 |Result, lab.- general (observable entity)|",
+    "SPHN_Concepts": [
+      "Lab Result-quantitative result",
+      "Lab Result-qualitative result",
+      "Lab Result-qualitative result code"
+    ]
+  },
+  {
+    "SCT": "271921002 |Electrocardiogram finding (observable entity)|",
+    "SPHN_Concepts": [
+      "Electrocardiogram",
+      "Electrocardiographic Procedure-output"
+    ]
+  },
+  {
+    "SCT": "54993008 |Cardiac index (observable entity)|",
+    "SPHN_Concepts": ["Cardiac Index"]
+  },
+  {
+    "SCT": "82799009 |Cardiac output (observable entity)|",
+    "SPHN_Concepts": ["Cardiac Output"]
+  },
+  {
+    "SCT": "250774007 |Inspired oxygen concentration (observable entity)|",
+    "SPHN_Concepts": [
+      "Inhaled Oxygen Concentration -",
+      "Inhaled Oxygen Concentration-concentration"
+    ]
+  },
+  {
+    "SCT": "427081008 |Delivered oxygen flow rate (observable entity)|",
+    "SPHN_Concepts": ["Inhaled Oxygen Concentration-oxygen flow rate"]
+  },
+  {
+    "SCT": "386725007 |Body temperature (observable entity)|",
+    "SPHN_Concepts": ["Body Temperature"]
+  },
+  {
+    "SCT": "103228002 |Hemoglobin saturation with oxygen (observable entity)|",
+    "SPHN_Concepts": ["Oxygen Saturation"]
+  },
+  {
+    "SCT": "86290005 |Respiratory rate (observable entity)|",
+    "SPHN_Concepts": ["Respiratory Rate"]
+  },
+  {
+    "SCT": "364075005 |Heart rate (observable entity)|",
+    "SPHN_Concepts": ["Heart Rate"]
+  },
+  {
+    "SCT": "364095004 |Pulse rhythm (observable entity)|",
+    "SPHN_Concepts": ["Heart Rate-regularity"]
+  },
+  {
+    "SCT": "75367002 |Blood pressure (observable entity)|",
+    "SPHN_Concepts": ["Blood Pressure"]
+  },
+  {
+    "SCT": "271649006 |Systolic blood pressure (observable entity)|",
+    "SPHN_Concepts": ["Blood Pressure-systolic pressure"]
+  },
+  {
+    "SCT": "271650006 |Diastolic blood pressure (observable entity)|",
+    "SPHN_Concepts": ["Blood Pressure-diastolic pressure"]
+  },
+  {
+    "SCT": "6797001 |Mean blood pressure (observable entity)|",
+    "SPHN_Concepts": ["Blood Pressure-mean pressure"]
+  },
+  {
+    "SCT": "248326004 |Body measure (observable entity)|",
+    "SPHN_Concepts": ["Measurement-quantity"]
+  },
+  {
+    "SCT": "60621009 |Body mass index (observable entity)|",
+    "SPHN_Concepts": ["Body Mass Index"]
+  },
+  {
+    "SCT": "248365001 |Circumference measure (observable entity)|",
+    "SPHN_Concepts": ["Circumference Measure"]
+  },
+  {
+    "SCT": "1153637007 |Body height (observable entity)|",
+    "SPHN_Concepts": ["Body Height"]
+  },
+  {
+    "SCT": "27113001 |Body weight (observable entity)|",
+    "SPHN_Concepts": ["Body Weight"]
+  },
+  {
+    "SCT": "301898006 |Body surface area (observable entity)|",
+    "SPHN_Concepts": ["Body Surface Area"]
+  },
+  {
+    "SCT": "446996006 |Dosage of radiation exposure (observable entity)|",
+    "SPHN_Concepts": [
+      "Diagnostic Radiologic Examination-radiation amount",
+      "Radiotherapy Procedure-radiation amount"
+    ]
+  },
+  {
+    "SCT": "419617009 |Reason for procedure cancelation (observable entity)|",
+    "SPHN_Concepts": ["Drug Administration Event-reason to stop"]
+  },
+  {
+    "SCT": "432678004 |Indication for procedure (observable entity)|",
+    "SPHN_Concepts": ["Drug Prescription-indication to start"]
+  },
+  {
+    "SCT": "395531003 |Neoplasm observable (observable entity)|",
+    "SPHN_Concepts": [
+      "ICD-O Diagnosis-topography code",
+      "ICD-O Diagnosis-morphology code",
+      "Oncology Treatment Assessment-result",
+      "Oncology Treatment Assessment-progression type"
+    ]
+  },
+  {
+    "SCT": "396984004 |Histologic feature of neoplasm (observable entity)|",
+    "SPHN_Concepts": ["ICD-O Diagnosis-morphology code"]
+  },
+  {
+    "SCT": "364713004 |Temporal observable (observable entity)|",
+    "SPHN_Concepts": ["Problem Condition-relative temporality"]
+  },
+  {
+    "SCT": "228862004 |Number of fractions (observable entity)|",
+    "SPHN_Concepts": ["Radiotherapy Procedure-fractions number"]
+  },
+  {
+    "SCT": "371499003 |Number of tumor fragments in specimen (observable entity)|",
+    "SPHN_Concepts": ["Tumor Specimen-tumor purity"]
+  },
+  {
+    "SCT": "399566009 |Tumor-node-metastasis (TNM) category (observable entity)|",
+    "SPHN_Concepts": ["TNM Classification -", "TNM Classification-TNM"]
+  },
+  {
+    "SCT": "78873005 |T category (observable entity)|",
+    "SPHN_Concepts": [
+      "TNM Classification-T prefix code",
+      "TNM Classification-T suffix code"
+    ]
+  },
+  {
+    "SCT": "277206009 |N category (observable entity)|",
+    "SPHN_Concepts": [
+      "TNM Classification-N prefix code",
+      "TNM Classification-N suffix code"
+    ]
+  },
+  {
+    "SCT": "277208005 |M category (observable entity)|",
+    "SPHN_Concepts": [
+      "TNM Classification-M prefix code",
+      "TNM Classification-M suffix code"
+    ]
+  },
+  {
+    "SCT": "371508000 |Tumor stage (observable entity)|",
+    "SPHN_Concepts": ["Tumor Stage-code"]
+  },
+  {
+    "SCT": "399445004 |Specimen collection date (observable entity)|",
+    "SPHN_Concepts": [
+      "Sample-collection datetime",
+      "Tumor Specimen-collection datetime"
+    ]
+  },
+  {
+    "SCT": "782487009 |Assessment score (observable entity)|",
+    "SPHN_Concepts": ["Simple Score -", "Simple Score-score"]
+  },
+  {
+    "SCT": "371892002 |Delivered radiation dose (observable entity)|",
+    "SPHN_Concepts": ["Radiotherapy Procedure-radiation amount"]
+  },
+  {
+    "SCT": "410607006 |Organism (organism)|",
+    "SPHN_Concepts": [
+      "Gene-organism",
+      "Organism -",
+      "Organism-organism identifier",
+      "Protein-organism",
+      "Transcript-organism"
+    ]
+  },
+  {
+    "SCT": "373873005 |Pharmaceutical / biologic product (product)|",
+    "SPHN_Concepts": [
+      "Drug-product code",
+      "Drug Administration Event-drug",
+      "Drug Prescription-drug"
+    ]
+  },
+  {
+    "SCT": "49062001 |Device (physical object)|",
+    "SPHN_Concepts": [
+      "Medical Device-product identifier",
+      "Medical Device-type identifier",
+      "Inhaled Oxygen Concentration-oxygen equipment"
+    ]
+  },
+  {
+    "SCT": "63653004 |Biomedical device (physical object)|",
+    "SPHN_Concepts": [
+      "Medical Device -",
+      "Medical Device-product identifier",
+      "Medical Device-type identifier",
+      "Inhaled Oxygen Concentration-oxygen equipment"
+    ]
+  },
+  {
+    "SCT": "105789008 |Cannula/tube/catheter, device (physical object)|",
+    "SPHN_Concepts": ["Access Device Presence-device"]
+  },
+  {
+    "SCT": "30234008 |Medical laboratory analyzer, device (physical object)|",
+    "SPHN_Concepts": [
+      "Lab Analyzer-type identifier",
+      "Lab Analyzer-product identifier​",
+      "Lab Test-instrument",
+      "Lab Test-test kit"
+    ]
+  },
+  {
+    "SCT": "706046003 |Specimen receptacle (physical object)|",
+    "SPHN_Concepts": [
+      "Sample-primary container type",
+      "Tumor Specimen-primary container type"
+    ]
+  },
+  {
+    "SCT": "257467001 |Electrocardiogram lead (physical object)|",
+    "SPHN_Concepts": ["Electrocardiographic Procedure-number of leads"]
+  },
+  {
+    "SCT": "277973009 |Respiratory equipment (physical object)|",
+    "SPHN_Concepts": ["Inhaled Oxygen Concentration-oxygen equipment"]
+  },
+  {
+    "SCT": "336589003 |Oxygen equipment (physical object)|",
+    "SPHN_Concepts": ["Inhaled Oxygen Concentration-oxygen equipment"]
+  },
+  {
+    "SCT": "71388002 |Procedure (procedure)|",
+    "SPHN_Concepts": ["FOPH Procedure-code", "Procedure -", "Procedure-code"]
+  },
+  {
+    "SCT": "29303009 |Electrocardiographic procedure (procedure)|",
+    "SPHN_Concepts": [
+      "Electrocardiographic Procedure -",
+      "Electrocardiographic Procedure-code"
+    ]
+  },
+  {
+    "SCT": "363679005 |Imaging (procedure)|",
+    "SPHN_Concepts": [
+      "Diagnostic Radiologic Examination-method",
+      "Oncology Treatment Assessment-method"
+    ]
+  },
+  {
+    "SCT": "363680008 |Radiographic imaging procedure (procedure)|",
+    "SPHN_Concepts": [
+      "Diagnostic Radiologic Examination -",
+      "Diagnostic Radiologic Examination-code"
+    ]
+  },
+  {
+    "SCT": "122869004 |Measurement procedure (procedure)|",
+    "SPHN_Concepts": [
+      "Blood Pressure-measurement method",
+      "Heart Rate-measurement method",
+      "Measurement Method -",
+      "Measurement Method-code",
+      "Oxygen Saturation-measurement method"
+    ]
+  },
+  {
+    "SCT": "370807008 |Evaluation of response to medications (procedure)|",
+    "SPHN_Concepts": ["Oncology Treatment Assessment"]
+  },
+  {
+    "SCT": "128927009 |Procedure by method (procedure)|",
+    "SPHN_Concepts": [
+      "Blood Pressure-measurement method",
+      "Heart Rate-measurement method",
+      "Measurement Method-code",
+      "Oxygen Saturation-measurement method"
+    ]
+  },
+  {
+    "SCT": "46973005 |Blood pressure taking (procedure)|",
+    "SPHN_Concepts": ["Blood Pressure-measurement method"]
+  },
+  {
+    "SCT": "65653002 |Pulse taking (procedure)|",
+    "SPHN_Concepts": ["Heart Rate-measurement method"]
+  },
+  {
+    "SCT": "18629005 |Administration of drug or medicament (procedure)|",
+    "SPHN_Concepts": ["Drug Administration Event"]
+  },
+  {
+    "SCT": "182832007 |Procedure related to management of drug administration (procedure)|",
+    "SPHN_Concepts": ["Drug Administration Event"]
+  },
+  {
+    "SCT": "1287742003 |Radiotherapy (procedure)|",
+    "SPHN_Concepts": ["Radiotherapy Procedure-code"]
+  },
+  {
+    "SCT": "308335008 |Patient encounter procedure (procedure)|",
+    "SPHN_Concepts": ["Healthcare Encounter"]
+  },
+  {
+    "SCT": "16076005 |Prescription (procedure)|",
+    "SPHN_Concepts": ["Drug Prescription"]
+  },
+  {
+    "SCT": "33633005 |Prescription of drug (procedure)|",
+    "SPHN_Concepts": ["Drug Prescription"]
+  },
+  {
+    "SCT": "9265001 |Specimen processing (procedure)|",
+    "SPHN_Concepts": ["Sample-fixation type", "Tumor Specimen-fixation type"]
+  },
+  {
+    "SCT": "225365006 |Care regime (regime/therapy)|",
+    "SPHN_Concepts": [
+      "Care Handling -",
+      "Care Handling-type",
+      "Administrative Case-care modality"
+    ]
+  },
+  {
+    "SCT": "108252007 |Laboratory procedure (procedure)|",
+    "SPHN_Concepts": ["Lab Result-lab test", "Lab Test-code"]
+  },
+  {
+    "SCT": "15220000 |Laboratory test (procedure)|",
+    "SPHN_Concepts": ["Lab Result-lab test", "Lab Test -", "Lab Test-code"]
+  },
+  {
+    "SCT": "387713003 |Surgical procedure (procedure)|",
+    "SPHN_Concepts": ["FOPH Procedure-code"]
+  },
+  {
+    "SCT": "57485005 |Oxygen therapy (procedure)|",
+    "SPHN_Concepts": ["Inhaled Oxygen Concentration-oxygen flow rate"]
+  },
+  {
+    "SCT": "63075001 |Monitoring of cardiac output/cardiac index (regime/therapy)|",
+    "SPHN_Concepts": ["Cardiac Index-method", "Cardiac Output-method"]
+  },
+  {
+    "SCT": "4241000179101 |Laboratory report (record artifact)|",
+    "SPHN_Concepts": ["Lab Result-comment"]
+  },
+  {
+    "SCT": "394658006 |Clinical specialty (qualifier value)|",
+    "SPHN_Concepts": [
+      "Therapeutic Area -",
+      "Therapeutic Area-name",
+      "Healthcare Encounter-therapeutic area"
+    ]
+  },
+  {
+    "SCT": "89100005 |Final diagnosis (discharge) (contextual qualifier) (qualifier value)|",
+    "SPHN_Concepts": ["FOPH Diagnosis"]
+  },
+  {
+    "SCT": "736478001 |Basic dose form (basic dose form)|",
+    "SPHN_Concepts": [
+      "Drug-manufactured dose form",
+      "Pharmaceutical Dose Form-code"
+    ]
+  },
+  {
+    "SCT": "736542009 |Pharmaceutical dose form (dose form)|",
+    "SPHN_Concepts": [
+      "Drug-manufactured dose form",
+      "Pharmaceutical Dose Form -",
+      "Pharmaceutical Dose Form-code"
+    ]
+  },
+  {
+    "SCT": "397669002 |Age (qualifier value)|",
+    "SPHN_Concepts": [
+      "Age -",
+      "Age-age quantity",
+      "Diagnosis-subject age",
+      "FOPH Diagnosis-subject age",
+      "ICD-O Diagnosis-subject age",
+      "Nursing Diagnosis-subject age"
+    ]
+  },
+  {
+    "SCT": "105904009 |Type of drug preparation (qualifier value)|",
+    "SPHN_Concepts": [
+      "Drug-manufactured dose form",
+      "Pharmaceutical Dose Form-code"
+    ]
+  },
+  {
+    "SCT": "272394005 |Technique (qualifier value)|",
+    "SPHN_Concepts": [
+      "Data Determination-method",
+      "Inhaled Oxygen Concentration-parameter type",
+      "Resporatory Rate-data determination method "
+    ]
+  },
+  {
+    "SCT": "278395004 |Imaging technique (qualifier value)|",
+    "SPHN_Concepts": [
+      "Diagnostic Radiologic Examination-method",
+      "Oncology Treatment Assessment-method"
+    ]
+  },
+  {
+    "SCT": "272103003 |Time patterns (qualifier value)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-time pattern type",
+      "Drug Prescription-time pattern type",
+      "Time Pattern -",
+      "Time Pattern-type"
+    ]
+  },
+  {
+    "SCT": "260395002 |Normal range (qualifier value)|",
+    "SPHN_Concepts": ["Lab Result-normal range", "Reference Range"]
+  },
+  {
+    "SCT": "767524001 |Unit of measure (qualifier value)|",
+    "SPHN_Concepts": ["Unit -", "Unit-code", "Quantity-unit"]
+  },
+  {
+    "SCT": "258703001 |day (qualifier value)|",
+    "SPHN_Concepts": ["Birth Date-day", "Death Date-day"]
+  },
+  {
+    "SCT": "258706009 |month (qualifier value)|",
+    "SPHN_Concepts": ["Birth Date-month", "Death Date-month"]
+  },
+  {
+    "SCT": "258707000 |year (qualifier value)|",
+    "SPHN_Concepts": ["Birth Date-year", "Death Date-year"]
+  },
+  {
+    "SCT": "182353008 |Side (qualifier value)|",
+    "SPHN_Concepts": ["Body Site-laterality", "Laterality-code"]
+  },
+  {
+    "SCT": "758637006 |Anatomic location (property) (qualifier value)|",
+    "SPHN_Concepts": ["Allergy Episode-manifestation body site"]
+  },
+  {
+    "SCT": "410514004 |Finding context value (qualifier value)|",
+    "SPHN_Concepts": [
+      "Allergy-verification status",
+      "Allergy Episode-certainty"
+    ]
+  },
+  {
+    "SCT": "363675004 |Intents (nature of procedure values) (qualifier value)|",
+    "SPHN_Concepts": [
+      "Diagnostic Radiologic Examination-intent",
+      "Drug Prescription-intent",
+      "Electrocardiographic Procedure-intent",
+      "FOPH Procedure-intent",
+      "Intent -",
+      "Intent-code",
+      "Procedure-intent",
+      "Radiotherapy Procedure-intent"
+    ]
+  },
+  {
+    "SCT": "118555000 |Substance amount (property) (qualifier value)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-drug quantity",
+      "Drug Prescription-drug quantity",
+      "Substance-substance quantity"
+    ]
+  },
+  {
+    "SCT": "261773006 |Duration of therapy (qualifier value)|",
+    "SPHN_Concepts": ["Drug Administration Event-duration"]
+  },
+  {
+    "SCT": "284009009 |Route of administration value (qualifier value)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-administration route",
+      "Drug Prescription-administration route"
+    ]
+  },
+  {
+    "SCT": "272123002 |Frequencies (qualifier value)|",
+    "SPHN_Concepts": ["Drug Prescription-frequency"]
+  },
+  {
+    "SCT": "106229004 |Qualifier for type of diagnosis (qualifier value)|",
+    "SPHN_Concepts": ["FOPH Diagnosis-diagnosis rank"]
+  },
+  {
+    "SCT": "277367001 |Nature of procedure values (qualifier value)|",
+    "SPHN_Concepts": ["FOPH Procedure-procedure rank"]
+  },
+  {
+    "SCT": "723198002 |Morphology (property) (qualifier value)|",
+    "SPHN_Concepts": ["ICD-O Diagnosis-morphology code"]
+  },
+  {
+    "SCT": "371933006 |Upper limit of reference range (qualifier value)|",
+    "SPHN_Concepts": ["Reference Range-upper limit"]
+  },
+  {
+    "SCT": "385524004 |Lower limit of reference range (qualifier value)|",
+    "SPHN_Concepts": ["Reference Range-lower limit"]
+  },
+  {
+    "SCT": "705113004 |Terminology system (qualifier value)|",
+    "SPHN_Concepts": ["Variant Notation-notation and version"]
+  },
+  {
+    "SCT": "307142001 |Temporal periods (qualifier value)|",
+    "SPHN_Concepts": ["Problem Condition-relative temporality"]
+  },
+  {
+    "SCT": "307431003 |Frequency per unit time (qualifier value)|",
+    "SPHN_Concepts": ["Drug Prescription-frequency"]
+  },
+  {
+    "SCT": "472963003 |Hypersensitivity process (qualifier value)|",
+    "SPHN_Concepts": ["Allergy-reaction type"]
+  },
+  {
+    "SCT": "472964009 |Allergic process (qualifier value)|",
+    "SPHN_Concepts": ["Allergy-reaction type"]
+  },
+  {
+    "SCT": "278305009 |Severity score (qualifier value)|",
+    "SPHN_Concepts": ["Adverse Event-severity grade"]
+  },
+  {
+    "SCT": "272141005 |Severities (qualifier value)|",
+    "SPHN_Concepts": [
+      "Adverse Event-severity grade",
+      "Adverse Event-consequences"
+    ]
+  },
+  {
+    "SCT": "61861000000100 |Consent (record artifact)|",
+    "SPHN_Concepts": ["Consent-consent type"]
+  },
+  {
+    "SCT": "761938008 |Medicinal prescription record (record artifact)|",
+    "SPHN_Concepts": ["Drug Prescription"]
+  },
+  {
+    "SCT": "371525003 |Clinical procedure report (record artifact)|",
+    "SPHN_Concepts": [
+      "Electrocardiogram-file",
+      "Electrocardiographic Procedure-output"
+    ]
+  },
+  {
+    "SCT": "371537001 |Consent report (record artifact)|",
+    "SPHN_Concepts": ["Consent"]
+  },
+  {
+    "SCT": "123038009 |Specimen (specimen)|",
+    "SPHN_Concepts": [
+      "Biobanksample-biosample",
+      "Lab Result-sample",
+      "Sample -",
+      "Sample-material type",
+      "Tumor Specimen-material type"
+    ]
+  },
+  {
+    "SCT": "258435002 |Tumor tissue specimen (specimen)|",
+    "SPHN_Concepts": ["Tumor Specimen"]
+  },
+  {
+    "SCT": "254291000 |Staging and scales (staging scale)|",
+    "SPHN_Concepts": [
+      "Simple Score-scoring system",
+      "Simple Score-coded scoring system"
+    ]
+  },
+  {
+    "SCT": "277457005 |Histological grading systems (staging scale)|",
+    "SPHN_Concepts": ["Tumor Grade-code"]
+  },
+  {
+    "SCT": "254292007 |Tumor staging (tumor staging)|",
+    "SPHN_Concepts": ["Tumor Stage"]
+  },
+  {
+    "SCT": "258234001 |Tumor-node-metastasis (TNM) tumor staging classifications (tumor staging)|",
+    "SPHN_Concepts": ["TNM Classification-TNM version"]
+  },
+  {
+    "SCT": "105590001 |Substance (substance)|",
+    "SPHN_Concepts": [
+      "Drug-active ingredient",
+      "Drug-inactive ingredient",
+      "Substance -",
+      "Substance-code",
+      "Substance-generic name"
+    ]
+  },
+  {
+    "SCT": "410942007 |Drug or medicament (substance)|",
+    "SPHN_Concepts": [
+      "Drug -",
+      "Drug-product code",
+      "Drug Administration Event-drug",
+      "Drug Prescription-drug"
+    ]
+  },
+  {
+    "SCT": "67271001 |Gene (substance)|",
+    "SPHN_Concepts": [
+      "Gene -",
+      "Gene-gene identifier",
+      "Variant Descriptor-gene context"
+    ]
+  },
+  {
+    "SCT": "88878007 |Protein (substance)|",
+    "SPHN_Concepts": [
+      "Protein -",
+      "Protein-protein identifier",
+      "Gene-protein",
+      "Transcript-protein"
+    ]
+  },
+  {
+    "SCT": "69908008 |Messenger ribonucleic acid (substance)|",
+    "SPHN_Concepts": [
+      "Gene-transcript",
+      "Transcript",
+      "Transcript-transcript identifier"
+    ]
+  },
+  {
+    "SCT": "272741003 |Laterality (attribute)|",
+    "SPHN_Concepts": ["Body Site-laterality", "Laterality-code"]
+  },
+  {
+    "SCT": "246075003 |Causative agent (attribute)|",
+    "SPHN_Concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen"
+    ]
+  },
+  {
+    "SCT": "277054007 |Allergen (attribute)|",
+    "SPHN_Concepts": [
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen"
+    ]
+  },
+  {
+    "SCT": "246103008 |Certainty (attribute)|",
+    "SPHN_Concepts": ["Allergy Episode-certainty"]
+  },
+  {
+    "SCT": "103335007 |Duration (attribute)|",
+    "SPHN_Concepts": [
+      "Allergy Episode-manifestation duration",
+      "Allergy Episode-exposure duration",
+      "Drug Administration Event-duration"
+    ]
+  },
+  {
+    "SCT": "246112005 |Severity (attribute)|",
+    "SPHN_Concepts": [
+      "Allergy-severity",
+      "Allergy Episode-manifestation severity",
+      "Adverse Event-severity grade"
+    ]
+  },
+  {
+    "SCT": "410670007 |Time (attribute)|",
+    "SPHN_Concepts": ["Birth Date-time", "Death Date-time"]
+  },
+  {
+    "SCT": "127489000 |Has active ingredient (attribute)|",
+    "SPHN_Concepts": ["Drug-active ingredient"]
+  },
+  {
+    "SCT": "411116001 |Has manufactured dose form (attribute)|",
+    "SPHN_Concepts": ["Drug-manufactured dose form"]
+  },
+  {
+    "SCT": "246205007 |Quantity (attribute)|",
+    "SPHN_Concepts": [
+      "Drug Administration Event-drug quantity",
+      "Drug Prescription-drug quantity",
+      "Quantity-value",
+      "Substance-substance quantity"
+    ]
+  },
+  {
+    "SCT": "116676008 |Associated morphology (attribute)|",
+    "SPHN_Concepts": ["ICD-O Diagnosis-morphology code"]
+  },
+  {
+    "SCT": "116677004 |Associated topography (attribute)|",
+    "SPHN_Concepts": ["ICD-O Diagnosis-topography code"]
+  },
+  {
+    "SCT": "260864003 |Frequency (attribute)|",
+    "SPHN_Concepts": ["Drug Prescription-frequency"]
+  },
+  {
+    "SCT": "260686004 |Method (attribute)|",
+    "SPHN_Concepts": [
+      "Data Determination-method",
+      "Inhaled Oxygen Concentration-parameter type",
+      "Resporatory Rate-data determination method "
+    ]
+  },
+  {
+    "SCT": "419620001 |Death (event)|",
+    "SPHN_Concepts": ["Death Status-status"]
+  }
+]

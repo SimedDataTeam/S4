@@ -1,0 +1,519 @@
+[
+  {
+    "SCT": "105789008 |Cannula/tube/catheter, device (physical object)|",
+    "SPHN_concepts": ["Access Device Presence-device"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "386141001 |Insertion site (morphologic abnormality)|",
+    "SPHN_concepts": ["Access Device Presence-insertion point"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "123037004 |Body structure (body structure)|",
+    "SPHN_concepts": [
+      "Access Device Presence-resting point",
+      "Allergy Episode-manifestation body site",
+      "Blood Pressure-body site",
+      "Body Temperature-body site",
+      "Body Site-code",
+      "Circumference Measure-body site",
+      "Diagnostic Radiologic Examination-body site",
+      "Electrocardiographic Procedure-body site",
+      "FOPH Procedure-body site",
+      "Heart Rate-body site",
+      "Oncology Treatment Assessment-progression site",
+      "Oxygen Saturation-body site",
+      "Procedure-body site",
+      "Radiotherapy Procedure-body site",
+      "Sample-body site",
+      "Tumor Specimen-body site"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "394656005 |Inpatient care (regime/therapy)|; 371883000 |Outpatient procedure (procedure)|; 304903009 |Provision of day care (regime/therapy)|",
+    "SPHN_concepts": ["Administrative Case-care modality"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "276339004 |Environment (environment)|",
+    "SPHN_concepts": [
+      "Administrative Case-origin location",
+      "Administrative Case-discharge location",
+      "Healthcare Encounter-origin location",
+      "Healthcare Encounter-current location",
+      "Healthcare Encounter-target location",
+      "Location-class"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "285116001 |Gender identity finding (finding)|",
+    "SPHN_concepts": ["Administrative Gender-gender"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "429019009 |Finding related to biological sex (finding)|",
+    "SPHN_concepts": ["Administrative Gender-gender"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "281647001 |Adverse reaction (disorder)|",
+    "SPHN_concepts": ["Adverse Event-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "105590001 |Substance (substance)|",
+    "SPHN_concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen",
+      "Drug-active ingredient",
+      "Drug-inactive ingredient",
+      "Drug Administration Event-drug",
+      "Drug Prescription-drug",
+      "Substance-code"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "260787004 |Physical object (physical object)|",
+    "SPHN_concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "373873005 |Pharmaceutical / biologic product (product)|",
+    "SPHN_concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen",
+      "Drug-product code",
+      "Drug Administration Event-drug",
+      "Drug Prescription-drug "
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "410607006 |Organism (organism)|",
+    "SPHN_concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen",
+      "Gene-organism",
+      "Organism-organism identifier",
+      "Protein-organism",
+      "Transcript-organism"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "78621006 |Physical force (physical force)|",
+    "SPHN_concepts": [
+      "Adverse Event-intervention",
+      "Allergen-code",
+      "Allergy-allergen",
+      "Allergy Episode-allergen"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "405535005 |Adverse incident resulting in death (finding)|; 442452003 |Life threatening severity (qualifier value)|; 707852009 |Inpatient management required (finding)|; 405532008 |Adverse incident resulting in potentially permanent disabling damage (finding)|; 276654001 |Congenital malformation (disorder)|; 398056004 |Transient abnormality with full recovery (finding)|",
+    "SPHN_concepts": ["Adverse Event-consequences"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "405533003 |Adverse incident outcome categories (finding)|",
+    "SPHN_concepts": ["Adverse Event-outcome"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "272141005 |Severities (qualifier value)|",
+    "SPHN_concepts": ["Adverse Event-severity grade"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "723505004 |Low risk (qualifier value) |; 723509005 |High risk (qualifier value) |; 723507007 |Unable to determine risk (qualifier value) |",
+    "SPHN_concepts": ["Allergy-severity"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "419199007 |Allergy to substance (finding)|; 782197009 |Intolerance to substance (finding)|",
+    "SPHN_concepts": ["Allergy-reaction type"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "410605003 |Confirmed present (qualifier value) |; 415684004 |Suspected (qualifier value) |; 723511001 |Refuted (qualifier value) |; 723510000 |Entered in error (qualifier value) |",
+    "SPHN_concepts": ["Allergy-verification status"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "415684004 |Suspected (qualifier value) |; 410592001 |Probably present (qualifier value) |; 410605003 |Confirmed present (qualifier value) |",
+    "SPHN_concepts": ["Allergy Episode-certainty"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "404684003 |Clinical finding (finding)|",
+    "SPHN_concepts": [
+      "Allergy Episode-manifestation",
+      "Problem Condition-code"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "255604002 |Mild (qualifier value) |; 6736007 |Moderate (severity modifier) (qualifier value) |; 24484000 |Severe (severity modifier) (qualifier value) |",
+    "SPHN_concepts": ["Allergy Episode-manifestation severity"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "162465004 |Symptom severity (finding)|",
+    "SPHN_concepts": ["Allergy Episode-manifestation severity"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "123038009 |Specimen (specimen)|",
+    "SPHN_concepts": [
+      "Biobanksample-biosample",
+      "Lab Result-sample",
+      "Sample-material type",
+      "Tumor Specimen-material type"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "113257007 |Structure of cardiovascular system (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "40983000 |Structure of upper extremity between shoulder and elbow (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "68367000 |Thigh structure (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "8205005 |Wrist region structure (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "7569003 |Finger structure (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "344001 |Ankle region structure (body structure)|",
+    "SPHN_concepts": ["Blood Pressure-body site"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "716777001 |Hemodynamic monitoring (regime/therapy) |",
+    "SPHN_concepts": ["Blood Pressure-measurement method"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "46973005 |Blood pressure taking (procedure)|",
+    "SPHN_concepts": ["Blood Pressure-measurement method"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "9851009 |Body position finding (finding)|",
+    "SPHN_concepts": ["Body Position-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "7771000 |Left (qualifier value)|; 24028007 |Right (qualifier value)|; 51440002 |Right and left (qualifier value)|; 66459002 |Unilateral (qualifier value)|",
+    "SPHN_concepts": ["Body Site-laterality", "Laterality-code"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "63075001 |Monitoring of cardiac output/cardiac index (regime/therapy)|",
+    "SPHN_concepts": ["Cardiac Index-method", "Cardiac Output-method"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "394656005 |Inpatient care (regime/therapy)|; 371883000 |Outpatient procedure (procedure)|; 304903009 |Provision of day care (regime/therapy)|",
+    "SPHN_concepts": ["Care Handling-type"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "91272006 |Chromosome (cell structure) |",
+    "SPHN_concepts": [
+      "Chromosome-chromosome name",
+      "Chromosomal Location-chromosome"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "69536005 |Head structure (body structure)|; 33673004 |Structure of waist (surface region) (body structure)|; 29836001 |Hip region structure (body structure)|; 45048000 |Neck structure (body structure)|",
+    "SPHN_concepts": ["Circumference Measure-body site"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "125681006 |Single person (finding)|; 87915002 |Married (finding)|; 33553000 |Widowed (finding)|; 20295000 |Divorced (finding)|; 14012001 |Common law partnership (finding)|; 266945001 |Broken with partner (finding)|",
+    "SPHN_concepts": ["Civil Status-status"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "69658003 |Specific (qualifier value)|; 60132005 |Generalized (qualifier value)|; 410529002 |Not needed (qualifier value)|",
+    "SPHN_concepts": ["Consent-consent type"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "385645004 |Accepted (qualifier value)|; 443390004 |Refused (qualifier value) |; 225795001 |Is informed (finding)|",
+    "SPHN_concepts": ["Consent-status"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "258104002 |Measured (qualifier value)|; 258090004 |Calculated (qualifier value)|; 87982008 |Manual (qualifier value)|; 414135002 |Estimated (qualifier value)|; 263760002 |Forced (qualifier value)|",
+    "SPHN_concepts": [
+      "Data Determination-method",
+      "Inhaled Oxygen Concentration-parameter type"
+    ],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "258104002 |Measured (qualifier value)|; 258090004 |Calculated (qualifier value)|; 87982008 |Manual (qualifier value)|; 263760002 |Forced (qualifier value)|",
+    "SPHN_concepts": ["Respiratory Rate-data determination method "],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "419099009 |Dead (finding)|",
+    "SPHN_concepts": ["Death Status"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "64572001 |Disease (disorder)|",
+    "SPHN_concepts": ["Diagnosis-code", "FOPH Diagnosis-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "363680008 |Radiographic imaging procedure (procedure)|",
+    "SPHN_concepts": ["Diagnostic Radiologic Examination-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "77477000 |Computed tomography (procedure)|; 82918005 |Positron emission tomography (procedure)|; 450436003 |Positron emission tomography with computed tomography (procedure)|; 105371005 |Single photon emission computed tomography (procedure)|; 113091000 |Magnetic resonance imaging (procedure)|; 363680008 |Radiographic imaging procedure (procedure)|",
+    "SPHN_concepts": ["Diagnostic Radiologic Examination-method"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "363675004 |Intents (nature of procedure values) (qualifier value)|",
+    "SPHN_concepts": [
+      "Diagnostic Radiologic Examination-intent",
+      "Drug Prescription-intent",
+      "Drug Prescription-Drug Prescription",
+      "FOPH Procedure-intent",
+      "Intent-code",
+      "Procedure-intent",
+      "Radiotherapy Procedure-intent"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "360156006 |Screening - procedure intent (qualifier value)|; 261004008 |Diagnostic intent (qualifier value)|",
+    "SPHN_concepts": ["Electrocardiographic Procedure-intent"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "736542009 |Pharmaceutical dose form (dose form)|",
+    "SPHN_concepts": [
+      "Drug-manufactured dose form",
+      "Pharmaceutical Dose Form-code"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "736478001 |Basic dose form (basic dose form)|",
+    "SPHN_concepts": [
+      "Drug-manufactured dose form",
+      "Pharmaceutical Dose Form-code"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "255238004 |Continuous (qualifier value)|; 7087005 |Intermittent (qualifier value)|; 385432009 |Not applicable (qualifier value)|",
+    "SPHN_concepts": [
+      "Drug Administration Event-time pattern type",
+      "Drug Prescription-time pattern type",
+      "Time Pattern-type"
+    ],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "284009009 |Route of administration value (qualifier value)|",
+    "SPHN_concepts": [
+      "Drug Administration Event-administration route",
+      "Drug Prescription-administration route"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "441308009 |New diagnosis (observable entity)|; 395009001 |Medication stopped - side effect (situation)|; 182872003 |Drug discontinued - too expensive (situation)|; 182846007 |Doctor stopped drugs - medical aim achieved (situation)|; 395007004 |Medication stopped - ineffective (situation)|; 31438003 |Drug resistance (disorder)|; 182845006 |Doctor stopped drugs - avoid interaction (situation)|; 182844005 |Doctor stopped drugs - patient dislikes (situation)|; 419620001 |Death (event)|; 399307001 |Lost to follow-up (finding)|; 74964007 |Other (qualifier value)|",
+    "SPHN_concepts": ["Drug Administration Event-reason to stop"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "29303009 |Electrocardiographic procedure (procedure)|",
+    "SPHN_concepts": ["Electrocardiographic Procedure-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "128973006 |Finding related physiologic patient state (finding)|",
+    "SPHN_concepts": ["Heart Rate-physiologic state", "Physiologic State-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "128975004 |Resting state (finding)|; 128976003 |Exercise state (finding)|",
+    "SPHN_concepts": ["Electrocardiographic Procedure-physiologic state"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "8319008 |Principal diagnosis (contextual qualifier) (qualifier value)|; 85097005 |Secondary diagnosis (contextual qualifier) (qualifier value)|",
+    "SPHN_concepts": ["FOPH Diagnosis-diagnosis rank"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "71388002 |Procedure (procedure)|",
+    "SPHN_concepts": ["FOPH Procedure-code", "Procedure-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "399455000 |Primary procedure (qualifier value)|; 262134003 |Secondary procedure (qualifier value)|",
+    "SPHN_concepts": ["FOPH Procedure-procedure rank"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "10589004 |Genetic transcription (finding)|",
+    "SPHN_concepts": ["Gene-transcript", "Transcript-transcript identifier"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "88878007 |Protein (substance)|",
+    "SPHN_concepts": [
+      "Gene-protein",
+      "Protein-protein identifier",
+      "Transcript-protein"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "394658006 |Clinical specialty (qualifier value)|",
+    "SPHN_concepts": [
+      "Healthcare Encounter-therapeutic area",
+      "Therapeutic Area-name"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "128927009 |Procedure by method (procedure)|",
+    "SPHN_concepts": [
+      "Heart Rate-measzrement method",
+      "Measurement Method-code",
+      "Oxygen Saturation-measurement method"
+    ],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "104847001 |Oxygen saturation measurement (procedure)|",
+    "SPHN_concepts": ["Oxygen Saturation-measurement method"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "271636001 |Pulse regular (finding)|; 61086009 |Pulse irregular (finding)|",
+    "SPHN_concepts": ["Heart Rate-regularity"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "272181003 |Clinical equipment and/or device (physical object) |",
+    "SPHN_concepts": ["Medical Device-type identifier"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "336589003 |Oxygen equipment (physical object)|",
+    "SPHN_concepts": ["Inhaled Oxygen Concentration-oxygen equipment"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "108252007 |Laboratory procedure (procedure)|",
+    "SPHN_concepts": ["Lab Result-lab test", "Lab Test-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "705215000 |Laboratory instruments and equipment (physical object)|",
+    "SPHN_concepts": ["Lab Test-instrument", "Lab Test-test kit"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "113091000 |Magnetic resonance imaging (procedure)|; 71040008 |Computerized tomography, follow-up (procedure)|; 450436003 |Positron emission tomography with computed tomography (procedure)|",
+    "SPHN_concepts": ["Oncology Treatment Assessment-method"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "118208006 |Finding related to therapeutic response (finding)|",
+    "SPHN_concepts": ["Oncology Treatment Assessment-result"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "369754009 |Localized tumor configuration (finding)|",
+    "SPHN_concepts": ["Oncology Treatment Assessment-progression type"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "307152002 |Temporal periods relating to procedure (qualifier value)|",
+    "SPHN_concepts": ["Problem Condition-relative temporality "],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "33195004 |External beam radiation therapy procedure (procedure)|; 115959002 |Stereotactic radiosurgery (procedure)|; 395096001 |Stereotactic radiotherapy (procedure)|; 152198000 |Brachytherapy (procedure)|; 399315003 |Radionuclide therapy (procedure)|; 168524008 |Radiotherapy - intraoperative control (procedure)|; 78080008 |Hyperthermia treatment of cancer (procedure)|; 74964007 |Other (qualifier value)|",
+    "SPHN_concepts": ["Radiotherapy Procedure-code"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "53041004 |Substance with alcohol structure (substance)|; 60530008 |Aldehyde (substance)|; 88999006 |Heat (physical force)|; 434162003 |Neutral buffered formalin (substance)|; 431510009 |Formalin (substance)|; 27872000 |Specimen freezing (procedure)|; 81547007 |Vacuum (physical force)|; 74964007 |Other (qualifier value)|",
+    "SPHN_concepts": ["Sample-fixation type", "Tumor Specimen-fixation type"],
+    "valueset_type": "fixed"
+  },
+  {
+    "SCT": "706046003 |Specimen receptacle (physical object)|",
+    "SPHN_concepts": ["Sample-primary container type"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "254291000 |Staging and scales (staging scale)|",
+    "SPHN_concepts": ["Simple Score-coded scoring system"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "395557000 |Tumor finding (finding)|",
+    "SPHN_concepts": ["TNM Classification-TNM"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "384740007 |Finding of grade (finding)|",
+    "SPHN_concepts": ["Tumor Grade-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "385356007 |Tumor stage finding (finding)|",
+    "SPHN_concepts": ["Tumor Stage-code"],
+    "valueset_type": "descendent of"
+  },
+  {
+    "SCT": "767524001 |Unit of measure (qualifier value)|",
+    "SPHN_concepts": ["Unit-code"],
+    "valueset_type": "descendent of"
+  }
+]

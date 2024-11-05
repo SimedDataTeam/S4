@@ -1,0 +1,5 @@
+{
+  "name": "SPHN - S4",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm",
+  "postCreateCommand": "cp -n .env.example .env && pnpm install"
+}
